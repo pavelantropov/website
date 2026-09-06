@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/common/">
+    <File Path=".dockerignore" />
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="src/PavelAntropov.Website.Api/PavelAntropov.Website.Api.csproj" />
+</Solution>
