@@ -1,0 +1,3 @@
+pavelantropov.ru {
+    reverse_proxy website:8080
+}

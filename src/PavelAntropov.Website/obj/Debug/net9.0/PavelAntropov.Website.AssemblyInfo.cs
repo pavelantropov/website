@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PavelAntropov.Website")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0490820b640f2f18666924401e14c86d2808e8fd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e7b31cc843e65f7849e7cf90fcbfb7590de127b")]
 [assembly: System.Reflection.AssemblyProductAttribute("PavelAntropov.Website")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PavelAntropov.Website")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
